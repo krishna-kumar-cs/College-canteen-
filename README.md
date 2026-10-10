@@ -4,6 +4,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
 int main()
 {   float bill,rate[5] ={20,45,30,25,45};
     int p[5],q;
