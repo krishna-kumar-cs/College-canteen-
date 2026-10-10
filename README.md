@@ -1,4 +1,4 @@
-
+1st project using only c programming 
 #include<stdio.h>
 #include<stdlib.h>
 
